@@ -15,5 +15,5 @@ Im just a software enginerin:
 <br/>
 
 ## Send me Donation on Trakteer
-<img src="download.png" alt="Send me donation"></img><br/>
+<img src="myqr.png" alt="Send me donation"></img><br/>
 <a href="https://trakteer.id/oratakashi" style="background: rgba(191,53,46,.7); text-align: center; color: white; box-sizing: border-box; max-width: 220px; padding: 5px; line-height: 1.25em; border-radius: .2em; font-size: .8em;">trakteer.id/oratakashi</a>
