@@ -7,9 +7,18 @@ Im just a software enginering:
 - 🌱 I’m currently learning Kotlin Generic Programing
 - 💬 Ask me about Kotlin, Java and PHP
 
+## Our Play Ground
+- Kotlin
+- Java
+- Laravel
+- Lumen
+- CodeIgniter
+
 ## Get in touch
 - Email: oratakashi@oratakashi.com
 - Instagram: https://instagram.com/oratakashii
+
+![github stats](https://github-readme-stats.vercel.app/api?username=oratakashi&show_icons=true)
 
 <br/>
 
