@@ -15,13 +15,13 @@ Im just a software enginering:
 - Lumen
 - CodeIgniter
 
-![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oratakashi&langs_count=8&hide=c,html,javascript,css,assembly&layout=compact)
+![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oratakashi&langs_count=8&hide=c,css,assembly,c%2B%2B&layout=compact)
 
 ## Get in touch
 - Email: oratakashi@oratakashi.com
 - Instagram: https://instagram.com/oratakashii
 
-![github stats](https://github-readme-stats.vercel.app/api?username=oratakashi&show_icons=true&count_private=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=oratakashi&show_icons=true&count_private=true&include_all_commits)
 
 <br/>
 
