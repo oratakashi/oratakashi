@@ -18,7 +18,7 @@ Im just a software enginering:
 - Email: oratakashi@oratakashi.com
 - Instagram: https://instagram.com/oratakashii
 
-![github stats](https://github-readme-stats.vercel.app/api?username=oratakashi&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=oratakashi&show_icons=true&count_private=true)
 
 <br/>
 
