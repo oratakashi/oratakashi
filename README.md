@@ -4,7 +4,7 @@
 Im just a software enginering:
 
 - 🔭 I’m currently working on a Consultant IT as a Android Developer
-- 🌱 I’m currently learning Kotlin Generic Programing
+- 🌱 I’m currently learning Kotlin Delegate and Kotlin Reflection
 - 💬 Ask me about Kotlin, Java and PHP
 
 ## Our Play Ground
