@@ -15,7 +15,7 @@ Im just a software enginering:
 - Lumen
 - CodeIgniter
 
-![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oratakashi&langs_count=8&hide=c,css,assembly,c%2B%2B,html,javascript,php,makefile,objective-c,tcl,roff,less,scss,perl,yacc,hack,tsql,lex,actionscript,shell,handlebars,ruby,blade,python&layout=compact)
+![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=oratakashi&langs_count=8&hide=c,css,assembly,c%2B%2B,html,javascript,makefile,objective-c,tcl,roff,less,scss,perl,yacc,hack,tsql,lex,actionscript,shell,handlebars,ruby,blade,python&layout=compact)
 
 ## Get in touch
 - Email: oratakashi@oratakashi.com
