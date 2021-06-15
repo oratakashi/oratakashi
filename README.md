@@ -3,14 +3,15 @@
 
 Im just a software enginering:
 
-- 🔭 I’m currently working on a Consultant IT as a Android Developer
-- 🌱 I’m currently learning Kotlin Delegate and Kotlin Reflection
+- 🔭 I’m currently working on a Agree by Telkom Indonesia as a Android Developer
+- 🌱 I’m currently learning Swift
 - 💬 Ask me about Kotlin, Java and PHP
 
 ## Our Play Ground
 
 - Kotlin
 - Java
+- Swift
 - Laravel
 - Lumen
 - CodeIgniter
