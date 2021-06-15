@@ -1,7 +1,7 @@
 
 ### Hi there, Im Oratakashi 👋
 
-Im just a software enginering, and Stay anonim, and Stay Think different is my motto, user never know who a author created a apps, :
+Im just a software enginering, and Stay anonim, and Stay Think different is my motto, user never know who a author created a apps,
 
 - 🔭 I’m currently working on a Agree by Telkom Indonesia as a Android Developer
 - 🌱 I’m currently learning Swift
