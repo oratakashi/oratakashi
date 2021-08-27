@@ -9,7 +9,7 @@ Im just a software enginering, and Stay anonim, and Stay Think different is my m
 
 ## Our Play Ground
 
-- Kotlin
+- Kotlin as Primary Language
 - Java
 - Swift
 - Laravel
